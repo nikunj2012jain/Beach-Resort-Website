@@ -1,3 +1,5 @@
+This website uses local data to display information. Also, it supports simultaneous multiple sorting which helps the customer find a room according to their own unique style.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
